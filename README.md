@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages (Data Portfolio - Work in Progress)
 
 You can use the [editor on GitHub](https://github.com/SeyiAgboola/seyiagboola.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project 1: Web Scraping IGN Site using Beautiful Soup
 
 ```markdown
 Syntax highlighted code block
@@ -25,6 +23,21 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
+### Project 2: Data Collecting using Social Media APIs
+
+### Project 3: Explorative Data Analysis on Kaggle Dataset
+
+### Project 4: Sentimental Analysis on Social Media Commentary
+
+### Project 5: Predicting Credit Card Loans with Kaggle with Linear Regression
+
+### Project 6: Clustering customers using K-Means
+
+### Project 7: Recommendation Engine with Podcast Notes
+
+### Project 8: Web App
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
